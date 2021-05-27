@@ -31,7 +31,7 @@ Z racji tego że nie wiedziałem w jakim formacie Pan preferowałby przesłany p
 
 Jako że nie jestem doświadczony w obsłudze Linuxa jedyny sposób w jaki udało mi się odaplić program to:
 1.Wrzucić pliki do tego samego folderu tak jak w przypadku Windowsa
-2.Odpalić konsole w tym folderze i uruchomić program za pomocą .\Projekt_Grafy
+2.Odpalić konsole w tym folderze i uruchomić program za pomocą .\Ford_Fulkerson
 
 ### Kod źródłowy
 
