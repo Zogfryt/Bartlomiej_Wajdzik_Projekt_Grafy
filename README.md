@@ -10,7 +10,7 @@ Zasada przedstawiana grafu w pliku jest następująca:
 1. Każda grawędź przedstawiona w postaci bloku [początek,koniec,przepływ] zachowując ściśle tą formę (nie można użyć spacji ani innych "niewidocznych rozdzielaczy")
    - np: [2,4,7] lub [Stacja_1,Stacja_2,67]
 2. Lista wszystkich krawędzi zawiera się w [] w której pierwszy blok jest odrazu za klamrą otwierającą
-   - każde dwa bloki oddzielone są przeicnkiem i enterem (tak jak to było w przykładowym pliku json z zadania Pierwszego)
+   - każde dwa bloki oddzielone są przecinkiem i enterem (tak jak to było w przykładowym pliku json z zadania Pierwszego)
    - klamra zamykająca w osobnej linii poniżej bliku
 3. Klamra otwierająca zbiór wierzchołków musi być pierwszym znakiem w pliku
 4. w następnej linii po klamrze zamykającej zbiór krawędzi podajemy wierzchołek mający być źródłem oraz po spacji wierzchołek mający być ujściem
