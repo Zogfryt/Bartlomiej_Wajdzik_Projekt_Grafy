@@ -32,6 +32,7 @@ Z racji tego że nie wiedziałem w jakim formacie Pan preferowałby przesłany p
 Jako że nie jestem doświadczony w obsłudze Linuxa jedyny sposób w jaki udało mi się odaplić program to:
 1. Wrzucić pliki do tego samego folderu tak jak w przypadku Windowsa
 2. Odpalić konsole w tym folderze i uruchomić program za pomocą .\Ford_Fulkerson (jeśli pisze brak dostępu należy wcześniej uruchmić komendę sudo chmod 777 ./Ford_Fulkerson)
+3. Jeśli program wypluwa "Nie ma takiego źródła" pomimo poprawnego uzupełnienia należy skożystać z pliku na Windows lub skompilować program z kodu źródłowego
 
 ### Kod źródłowy
 
